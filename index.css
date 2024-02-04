@@ -41,7 +41,7 @@ header nav a:hover {
     border-bottom: 2px solid #e07a22;
 }
 
-h1, h2 {
+h1,h2 {
     color: #e07a22;
     text-align: center;
 }
@@ -87,6 +87,8 @@ main {
 section {
     margin-bottom: 40px;
 }
+
+
 
 /* Adicione estilos específicos para cada seção (Boho, Minimalista, Retro, Industrial, Clássico) conforme necessário */
 
